@@ -11,6 +11,10 @@
       "sizes": "192x192",
       "type": "image/png"
     }
-  ]
+  ],
+  "description": "Aplikasi Rekap Bank adalah solusi pencatatan keuangan praktis yang dirancang untuk memudahkan petugas kasir",
+  "id": "Rp",
+  "dir": "auto",
+  "lang": "id",
+  "orientation": "portrait"
 }
-
