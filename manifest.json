@@ -1,0 +1,20 @@
+{
+  "name": "Rekap Pembayaran RSBA",
+  "short_name": "Rekap RSBA",
+  "start_url": "./rekap-rsba.html",
+  "display": "standalone",
+  "background_color": "#F0F5F3",
+  "theme_color": "#0B4D3A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
