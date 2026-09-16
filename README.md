@@ -1,0 +1,1 @@
+Aplikasi kalkulator praktis untuk menghitung estimasi selisih biaya dan total tagihan pasien rawat inap yang naik kelas perawatan menggunakan fasilitas BPJS Kesehatan secara mandiri atau sesuai ketentuan berlaku.
